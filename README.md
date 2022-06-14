@@ -2,7 +2,7 @@
 
 Marcophono Premium
 
-Enable premium on Marcophono
+🏆 Enable premium on Marcophono
 
 Usage:
 
